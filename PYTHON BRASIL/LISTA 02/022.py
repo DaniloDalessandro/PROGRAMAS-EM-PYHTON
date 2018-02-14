@@ -1,0 +1,10 @@
+# POR: DANILO COSTA
+# UNIVERSIDADE ESTADUAL DO MARANHÃO
+# GRADUANDO EM ENGENHARIA DE COMPUTAÇÃO
+
+n = int(input('DIGITE UM NUMERO: '))
+
+if n % 2 == 0:
+    print('NUMERO PAR')
+else:
+    print('NUMERO IMPAR')

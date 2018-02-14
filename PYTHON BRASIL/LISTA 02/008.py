@@ -1,0 +1,14 @@
+# POR: DANILO COSTA
+# UNIVERSIDADE ESTADUAL DO MARANHÃO
+# GRADUANDO EM ENGENHARIA DE COMPUTAÇÃO
+
+n1 = int(input('PRIMEIRO PRODUTO: '))
+n2 = int(input('SEGUNDO PRODUTO: '))
+n3 = int(input('TERCEIRO PRODUTO: '))
+
+if n1 < n2 and n1 < n3:
+    print('VC DEVE COMPRAR O PRIMEIRO PRODUTO')
+elif n2 < n1 and n2 < n3:
+    print('VC DEVE COMPRAR O SEGUNDO PRODUTO')
+elif n3 < n1 and n3 < n2:
+    print('VC DEVE COMPRAR O TERCEIRO PRODUTO')

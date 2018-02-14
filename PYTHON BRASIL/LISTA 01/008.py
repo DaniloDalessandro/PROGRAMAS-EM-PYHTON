@@ -1,0 +1,8 @@
+# POR: DANILO COSTA
+# UNIVERSIDADE ESTADUAL DO MARANHÃO
+# GRADUANDO EM ENGENHARIA DE COMPUTAÇÃO
+
+s = float(input('QUANTO GANHA POR HORA: '))
+h = int(input('QUANTAS HORAS TRABALHA NO MÊS: '))
+s = s * h
+print('SALARIO: {}'.format(s))

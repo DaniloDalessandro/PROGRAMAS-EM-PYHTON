@@ -1,0 +1,9 @@
+# POR: DANILO COSTA
+# UNIVERSIDADE ESTADUAL DO MARANHÃO
+# GRADUANDO EM ENGENHARIA DE COMPUTAÇÃO
+
+h = float(input('QUAL SUA ALTURA? '))
+
+p = (72.7*h) - 58
+
+print('PESO IDEAL: {}'.format(p))
