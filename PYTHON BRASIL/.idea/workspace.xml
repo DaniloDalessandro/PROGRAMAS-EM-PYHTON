@@ -13,7 +13,7 @@
     <SUITE FILE_PATH="coverage/PYTHON_BRASIL$009.coverage" NAME="009 Coverage Results" MODIFIED="1518903290885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LISTA 03" />
     <SUITE FILE_PATH="coverage/PYTHON_BRASIL$003.coverage" NAME="003 Coverage Results" MODIFIED="1518839285576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LISTA 03" />
     <SUITE FILE_PATH="coverage/PYTHON_BRASIL$006.coverage" NAME="006 Coverage Results" MODIFIED="1518898307101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LISTA 03" />
-    <SUITE FILE_PATH="coverage/PYTHON_BRASIL$012.coverage" NAME="012 Coverage Results" MODIFIED="1518116340271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LISTA 02" />
+    <SUITE FILE_PATH="coverage/PYTHON_BRASIL$012.coverage" NAME="012 Coverage Results" MODIFIED="1518929951299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LISTA 03" />
     <SUITE FILE_PATH="coverage/PYTHON_BRASIL$018.coverage" NAME="018 Coverage Results" MODIFIED="1518303873833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LISTA 02" />
     <SUITE FILE_PATH="coverage/PYTHON_BRASIL$020.coverage" NAME="020 Coverage Results" MODIFIED="1518307027370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LISTA 02" />
     <SUITE FILE_PATH="coverage/PYTHON_BRASIL$024.coverage" NAME="024 Coverage Results" MODIFIED="1518559603651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LISTA 02" />
@@ -22,7 +22,7 @@
     <SUITE FILE_PATH="coverage/PYTHON_BRASIL$027.coverage" NAME="027 Coverage Results" MODIFIED="1518573097950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LISTA 02" />
     <SUITE FILE_PATH="coverage/PYTHON_BRASIL$007.coverage" NAME="007 Coverage Results" MODIFIED="1518898586500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LISTA 03" />
     <SUITE FILE_PATH="coverage/PYTHON_BRASIL$004.coverage" NAME="004 Coverage Results" MODIFIED="1518897152813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LISTA 03" />
-    <SUITE FILE_PATH="coverage/PYTHON_BRASIL$013.coverage" NAME="013 Coverage Results" MODIFIED="1518117216153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LISTA 02" />
+    <SUITE FILE_PATH="coverage/PYTHON_BRASIL$013.coverage" NAME="013 Coverage Results" MODIFIED="1518931251877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LISTA 03" />
     <SUITE FILE_PATH="coverage/PYTHON_BRASIL$022.coverage" NAME="022 Coverage Results" MODIFIED="1518366806784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LISTA 02" />
     <SUITE FILE_PATH="coverage/PYTHON_BRASIL$016.coverage" NAME="016 Coverage Results" MODIFIED="1518280509666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LISTA 02" />
     <SUITE FILE_PATH="coverage/PYTHON_BRASIL$025.coverage" NAME="025 Coverage Results" MODIFIED="1518557411914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LISTA 02" />
@@ -32,9 +32,11 @@
     <SUITE FILE_PATH="coverage/PYTHON_BRASIL$005.coverage" NAME="005 Coverage Results" MODIFIED="1517874944214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LISTA 02" />
     <SUITE FILE_PATH="coverage/PYTHON_BRASIL$019.coverage" NAME="019 Coverage Results" MODIFIED="1518304666270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LISTA 02" />
     <SUITE FILE_PATH="coverage/PYTHON_BRASIL$028.coverage" NAME="028 Coverage Results" MODIFIED="1518835995333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LISTA 02" />
-    <SUITE FILE_PATH="coverage/PYTHON_BRASIL$014.coverage" NAME="014 Coverage Results" MODIFIED="1518189495388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LISTA 02" />
     <SUITE FILE_PATH="coverage/PYTHON_BRASIL$011.coverage" NAME="011 Coverage Results" MODIFIED="1518904339416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LISTA 03" />
+    <SUITE FILE_PATH="coverage/PYTHON_BRASIL$014.coverage" NAME="014 Coverage Results" MODIFIED="1518971812034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LISTA 03" />
     <SUITE FILE_PATH="coverage/PYTHON_BRASIL$017.coverage" NAME="017 Coverage Results" MODIFIED="1518281115401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LISTA 02" />
+    <SUITE FILE_PATH="coverage/PYTHON_BRASIL$016__1_.coverage" NAME="016 (1) Coverage Results" MODIFIED="1519088822564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LISTA 03" />
+    <SUITE FILE_PATH="coverage/PYTHON_BRASIL$015__1_.coverage" NAME="015 (1) Coverage Results" MODIFIED="1519088540289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LISTA 03" />
     <SUITE FILE_PATH="coverage/PYTHON_BRASIL$021.coverage" NAME="021 Coverage Results" MODIFIED="1518568352397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LISTA 02" />
     <SUITE FILE_PATH="coverage/PYTHON_BRASIL$026.coverage" NAME="026 Coverage Results" MODIFIED="1518562544489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LISTA 02" />
     <SUITE FILE_PATH="coverage/PYTHON_BRASIL$023.coverage" NAME="023 Coverage Results" MODIFIED="1518558735539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LISTA 02" />
@@ -42,21 +44,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="009.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LISTA 03/009.py">
+      <file leaf-file-name="016.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LISTA 03/016.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="39" />
+            <state relative-caret-position="244">
+              <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="011.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/LISTA 03/011.py">
+      <file leaf-file-name="017.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LISTA 03/017.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+            <state relative-caret-position="60">
+              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -112,6 +114,12 @@
         <option value="$PROJECT_DIR$/LISTA 03/009.py" />
         <option value="$PROJECT_DIR$/LISTA 03/010.py" />
         <option value="$PROJECT_DIR$/LISTA 03/011.py" />
+        <option value="$PROJECT_DIR$/LISTA 03/012.py" />
+        <option value="$PROJECT_DIR$/LISTA 03/013.py" />
+        <option value="$PROJECT_DIR$/LISTA 03/014.py" />
+        <option value="$PROJECT_DIR$/LISTA 03/015.py" />
+        <option value="$PROJECT_DIR$/LISTA 03/017.py" />
+        <option value="$PROJECT_DIR$/LISTA 03/016.py" />
       </list>
     </option>
   </component>
@@ -140,7 +148,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -148,10 +155,16 @@
               <item name="PYTHON BRASIL" type="b2602c69:ProjectViewProjectNode" />
               <item name="PYTHON BRASIL" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="PYTHON BRASIL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PYTHON BRASIL" type="462c0819:PsiDirectoryNode" />
+              <item name="LISTA 03" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -171,8 +184,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.011">
-    <configuration name="007" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.016 (1)">
+    <configuration name="012" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -185,12 +198,12 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PYTHON BRASIL" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LISTA 03/007.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LISTA 03/012.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="008" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="013" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -203,12 +216,12 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PYTHON BRASIL" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LISTA 03/008.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LISTA 03/013.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="009" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="014" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -221,12 +234,12 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PYTHON BRASIL" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LISTA 03/009.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LISTA 03/014.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="010" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="015 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -239,25 +252,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PYTHON BRASIL" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LISTA 03/010.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="011" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LISTA 03" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="PYTHON BRASIL" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LISTA 03/011.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LISTA 03/015.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -276,6 +271,24 @@
       <module name="PYTHON BRASIL" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LISTA 02/015.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="016 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LISTA 03" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PYTHON BRASIL" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LISTA 03/016.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -301,19 +314,19 @@
     <list size="7">
       <item index="0" class="java.lang.String" itemvalue="Python.015" />
       <item index="1" class="java.lang.String" itemvalue="Python.016" />
-      <item index="2" class="java.lang.String" itemvalue="Python.007" />
-      <item index="3" class="java.lang.String" itemvalue="Python.008" />
-      <item index="4" class="java.lang.String" itemvalue="Python.009" />
-      <item index="5" class="java.lang.String" itemvalue="Python.010" />
-      <item index="6" class="java.lang.String" itemvalue="Python.011" />
+      <item index="2" class="java.lang.String" itemvalue="Python.012" />
+      <item index="3" class="java.lang.String" itemvalue="Python.013" />
+      <item index="4" class="java.lang.String" itemvalue="Python.014" />
+      <item index="5" class="java.lang.String" itemvalue="Python.015 (1)" />
+      <item index="6" class="java.lang.String" itemvalue="Python.016 (1)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.011" />
-        <item index="1" class="java.lang.String" itemvalue="Python.010" />
-        <item index="2" class="java.lang.String" itemvalue="Python.009" />
-        <item index="3" class="java.lang.String" itemvalue="Python.008" />
-        <item index="4" class="java.lang.String" itemvalue="Python.007" />
+        <item index="0" class="java.lang.String" itemvalue="Python.016 (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Python.015 (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Python.014" />
+        <item index="3" class="java.lang.String" itemvalue="Python.013" />
+        <item index="4" class="java.lang.String" itemvalue="Python.012" />
       </list>
     </recent_temporary>
   </component>
@@ -342,7 +355,7 @@
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1366" height="725" extended-state="6" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34924242" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38560605" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -395,48 +408,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/LISTA 02/010.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LISTA 02/009.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LISTA 02/008.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LISTA 02/007.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LISTA 02/003.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LISTA 02/001.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -698,35 +669,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LISTA 03/006.py">
+    <entry file="file://$PROJECT_DIR$/LISTA 03/011.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LISTA 03/007.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LISTA 03/008.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="39" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/LISTA 03/010.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="10" />
-          <folding />
+        <state relative-caret-position="255">
+          <caret line="17" column="10" lean-forward="true" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
         </state>
       </provider>
     </entry>
@@ -734,14 +687,72 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LISTA 03/008.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LISTA 03/007.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LISTA 03/006.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LISTA 03/012.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LISTA 03/013.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LISTA 03/014.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="39" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LISTA 03/011.py">
+    <entry file="file://$PROJECT_DIR$/LISTA 03/015.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LISTA 03/017.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LISTA 03/016.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
           <folding />
         </state>
       </provider>
